@@ -8,7 +8,7 @@ interface CmdLoaderProps {
 
 const cmdLines = [
   { text: "Microsoft Windows [Version 10.0.22631.4460]", delay: 0 },
-  { text: "(c) Microsoft Corporation. All rights reserved.", delay: 150 },
+  { text: "(c) Qwerty Corporation. All rights reserved.", delay: 150 },
   { text: "", delay: 300 },
   { text: "C:\\Users\\Player> cd ProjectRivals", delay: 600 },
   { text: "C:\\Users\\Player\\ProjectRivals> launcher.exe --init", delay: 1000 },
@@ -26,7 +26,7 @@ const cmdLines = [
   { text: "[NETWORK] Establishing secure connection...", delay: 4500 },
   { text: "[OK] Connected to Project Rivals servers", delay: 5200 },
   { text: "[NETWORK] Verifying server status...", delay: 5800 },
-  { text: "[OK] Server online - 127 players connected", delay: 6400 },
+  { text: "[OK] Server online - 120 players connected", delay: 6400 },
   { text: "", delay: 6700 },
   { text: "Loading resources:", delay: 7000 },
   { text: "  [████████████████████████████████████████] 100%  textures.pak", delay: 7500 },
@@ -43,7 +43,7 @@ const cmdLines = [
   { text: "[OK] Audio subsystem ready", delay: 11700 },
   { text: "", delay: 12000 },
   { text: "═══════════════════════════════════════════════════════════════", delay: 12300 },
-  { text: "  ALL SYSTEMS OPERATIONAL - READY TO LAUNCH", delay: 12600 },
+  { text: "  LAUNCHER BY EXO STUDIOS//REMEMBER, TRUST US", delay: 12600 },
   { text: "═══════════════════════════════════════════════════════════════", delay: 12900 },
   { text: "", delay: 13200 },
   { text: ">> POWERING ON DISPLAY...", delay: 13500 },
