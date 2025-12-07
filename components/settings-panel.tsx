@@ -255,7 +255,7 @@ export default function SettingsPanel({ intensity, onIntensityChange, onClose }:
               <div className="space-y-3">
                 <div className="p-4 rounded-lg border border-white/10 bg-white/[0.02]">
                   <p className="text-xs text-white/50 uppercase tracking-wider mb-2">Desarrollado por</p>
-                  <p className="text-sm font-medium text-white">Tu Nombre Aquí</p>
+                  <p className="text-sm font-medium text-white">SirDrogas//Qwerty Studios</p>
                 </div>
 
                 <div className="p-4 rounded-lg border border-white/10 bg-white/[0.02]">
